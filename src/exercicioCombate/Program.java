@@ -62,9 +62,7 @@ public class Program {
 		}
 		
 		System.out.println("FIM DO COMBATE");
-		
-		
-		
+				
 		sc.close();
 	}
 
